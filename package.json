@@ -1,0 +1,10 @@
+{
+  "name": "monorepo-example",
+  "version": "1.0.0",
+  "author": "Vishakha Tak <vishakha.tak@viitor.cloud>",
+  "description": "Example mono repo",
+  "scripts": {
+    "build": "next build",
+    "lint": "eslint ./src"
+  }
+}
